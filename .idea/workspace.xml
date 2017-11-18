@@ -35,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie/Movie-list.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,17 +55,17 @@
         <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie/check-filter.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hi.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hi.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie/hi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48433048">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state vertical-scroll-proportion="-4.576923">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -75,17 +75,17 @@
         <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="48" />
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Movie-filter.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Movie-filter.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie/Movie-filter.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.31564987">
+              <caret line="7" column="81" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -143,10 +143,10 @@
         <option value="$PROJECT_DIR$/vuejs-cinema/index.html" />
         <option value="$PROJECT_DIR$/vuejs-cinema/package.json" />
         <option value="$PROJECT_DIR$/vuejs-cinema/src/main.js" />
-        <option value="$PROJECT_DIR$/vuejs-cinema/src/components/movie/Movie-filter.vue" />
+        <option value="$PROJECT_DIR$/vuejs-cinema/src/components/movie/hi.html" />
         <option value="$PROJECT_DIR$/vuejs-cinema/src/components/movie/Movie-list.vue" />
         <option value="$PROJECT_DIR$/vuejs-cinema/src/components/movie/check-filter.vue" />
-        <option value="$PROJECT_DIR$/vuejs-cinema/src/components/movie/hi.html" />
+        <option value="$PROJECT_DIR$/vuejs-cinema/src/components/movie/Movie-filter.vue" />
       </list>
     </option>
   </component>
@@ -638,10 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/util/genres.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -649,7 +649,15 @@
     <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="48" />
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie/hi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -665,23 +673,15 @@
     <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie/Movie-list.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/util/genres.js">
+    <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie/Movie-filter.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -689,15 +689,15 @@
     <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie/check-filter.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie/hi.html">
+    <entry file="file://$PROJECT_DIR$/vuejs-cinema/src/components/movie/Movie-filter.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48433048">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.31564987">
+          <caret line="7" column="81" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
           <folding />
         </state>
       </provider>
